@@ -8,7 +8,7 @@ For the past two years, I have been engaged in engineering projects with a focus
 My work in this field has inspired my pursuit of further knowledge and expertise in artificial intelligence and computer vision.
 
 Here you can find a little more of me and my projects!
- 
+ xss
 
 ## Tecnologies I use:
 
@@ -85,7 +85,7 @@ Here you can find a little more of me and my projects!
 ## You can find me in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacob_Bamio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jacobbamio)
-[![Protonmail](https://img.shields.io/badge/Protonmail-Job_inquiries-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010)](jacobbamio@protonmail.com)
+[![Protonmail](https://img.shields.io/badge/Protonmail-Job_inquiries-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010)](mailto:jacobbamio@protonmail.com)
 </br>
 [![Github-personal](https://img.shields.io/badge/Github-Personal-4D4D4D?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/jacobbamio)
 [![Github-organization](https://img.shields.io/badge/Github-Coisigna-4D4D4D?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/coisigna)
