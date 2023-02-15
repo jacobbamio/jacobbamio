@@ -15,11 +15,10 @@ Here you can find a little more of me and my projects!
 [![Python](https://img.shields.io/badge/Python-058489?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/Numpy-058489?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
 [![Pandas](https://img.shields.io/badge/Pandas-058489?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
-[![SciKitLearn](https://img.shields.io/badge/ScikitLearn-058489?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)]()
 </br>
+[![SciKitLearn](https://img.shields.io/badge/ScikitLearn-6D5C45?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)]()
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-6D5C45?style=for-the-badge&logo=Tensorflow&logoColor=white&labelColor=101010)]()
 [![Keras](https://img.shields.io/badge/Keras-6D5C45?style=for-the-badge&logo=Keras&logoColor=white&labelColor=101010)]()
-[![Pytorch](https://img.shields.io/badge/pytorch-6D5C45?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
 </br>
 [![Opencv](https://img.shields.io/badge/Opencv-7263DB?style=for-the-badge&logo=Opencv&logoColor=white&labelColor=101010)]()
 [![mvtec_halcon](https://img.shields.io/badge/mvtec_halcon-7263DB?style=for-the-badge&logo=mvtec_halcon&logoColor=white&labelColor=101010)]()
@@ -68,6 +67,7 @@ Here you can find a little more of me and my projects!
 </br>
 [![Solidity](https://img.shields.io/badge/solidity-4285F4?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-4285F4?style=for-the-badge&logo=Swift&logoColor=white&labelColor=101010)]()
+[![Pytorch](https://img.shields.io/badge/pytorch-6D5C45?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-4285F4?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
