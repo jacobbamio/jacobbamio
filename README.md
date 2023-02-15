@@ -66,7 +66,7 @@ Here you can find a little more of me and my projects!
 </br>
 [![Solidity](https://img.shields.io/badge/solidity-4285F4?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-4285F4?style=for-the-badge&logo=Swift&logoColor=white&labelColor=101010)]()
-[![Pytorch](https://img.shields.io/badge/pytorch-6D5C45?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
+[![Pytorch](https://img.shields.io/badge/pytorch-4285F4?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-4285F4?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
