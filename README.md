@@ -79,6 +79,14 @@ Here you can find a little more of me and my projects!
 [![Opel](https://img.shields.io/badge/Opel-8F1742?style=for-the-badge&logo=Opel&logoColor=white&labelColor=101010)]()
 [![Bosch](https://img.shields.io/badge/Bosch-8F1742?style=for-the-badge&logo=Bosch&logoColor=white&labelColor=101010)]()
 
+## My projects:
+|Project|Web status|
+|---|---
+|[![FoodAPI](https://img.shields.io/badge/meal_planner-122F82?style=for-the-badge&logo=walmart&logoColor=white&labelColor=101010)](https://github.com/jacobbamio/dsb_mealplans)|[![FoodAPI](https://img.shields.io/badge/Up-11F742?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010)](https://mealplan.streamlit.app)
+|[![Airbnb](https://img.shields.io/badge/price_predictor-122F82?style=for-the-badge&logo=airbnb&logoColor=white&labelColor=101010)](https://github.com/coisigna/dsb_p2_airbnb_price_predictor)|[![Airbnb](https://img.shields.io/badge/Down-F11742?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010)](https://airbnbprediction.streamlit.app)
+|[![Goodreads](https://img.shields.io/badge/book_recommender-122F82?style=for-the-badge&logo=goodreads&logoColor=white&labelColor=101010)](https://github.com/coisigna/dsb_p3_book_recommender)|[![Goodreads](https://img.shields.io/badge/UP-11F742?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010)](https://goodreadsrecommender.streamlit.app)
+
+
 
 
 ## You can find me in:
