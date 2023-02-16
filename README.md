@@ -7,7 +7,7 @@ For the past two years, I have been engaged in engineering projects with a focus
 
 My work in this field has inspired my pursuit of further knowledge and expertise in artificial intelligence and computer vision.
 
-Here you can find a little more of me and my projects!
+Here you can find a little more about me and my data science projects!
 
 ## Tecnologies I use:
 
