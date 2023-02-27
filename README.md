@@ -28,8 +28,9 @@ Here you can find a little more about me and my data science projects!
 [![pickit3d](https://img.shields.io/badge/pickit3d-7263DB?style=for-the-badge&logo=pickit3d&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-D43A3A?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Airtable](https://img.shields.io/badge/Airtable-D43A3A?style=for-the-badge&logo=Airtable&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-D43A3A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Pyspark](https://img.shields.io/badge/pyspark-D43A3A?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)]()
+[![Airtable](https://img.shields.io/badge/Airtable-D43A3A?style=for-the-badge&logo=Airtable&logoColor=white&labelColor=101010)]()
 [![Kaggle](https://img.shields.io/badge/Kaggle-D43A3A?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=101010)]()
 </br>
 [![Plotly](https://img.shields.io/badge/Plotly-2F52EF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)]()
@@ -70,7 +71,6 @@ Here you can find a little more about me and my data science projects!
 [![Swift](https://img.shields.io/badge/Swift-4285F4?style=for-the-badge&logo=Swift&logoColor=white&labelColor=101010)]()
 [![Pytorch](https://img.shields.io/badge/pytorch-4285F4?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
 </br>
-[![MongoDB](https://img.shields.io/badge/MongoDB-4285F4?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Hadoop](https://img.shields.io/badge/Hadoop-4285F4?style=for-the-badge&logo=apacheHadoop&logoColor=white&labelColor=101010)]()
 
