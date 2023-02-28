@@ -49,7 +49,10 @@ Here you can find a little more about me and my data science projects!
 [![abbrobotstudio](https://img.shields.io/badge/abb_robots-B28E00?style=for-the-badge&logo=abbrobotstudio&logoColor=white&labelColor=101010)]()
 [![universalrobots](https://img.shields.io/badge/universal_robots-B28E00?style=for-the-badge&logo=universal_robots&logoColor=white&labelColor=101010)]()
 [![fanucrobots](https://img.shields.io/badge/fanuc_robots-B28E00?style=for-the-badge&logo=fanuc_robots&logoColor=white&labelColor=101010)]()
-
+</br>
+[![Docker](https://img.shields.io/badge/Docker-428588?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Vmware](https://img.shields.io/badge/vmware-428588?style=for-the-badge&logo=vmware&logoColor=white&labelColor=101010)]()
+[![VirtualBox](https://img.shields.io/badge/virtualbox-428588?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=101010)]()
 
 ## API's used:
 
@@ -70,9 +73,6 @@ Here you can find a little more about me and my data science projects!
 [![Solidity](https://img.shields.io/badge/solidity-4285F4?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-4285F4?style=for-the-badge&logo=Swift&logoColor=white&labelColor=101010)]()
 [![Pytorch](https://img.shields.io/badge/pytorch-4285F4?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
-</br>
-[![Docker](https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
-[![Hadoop](https://img.shields.io/badge/Hadoop-4285F4?style=for-the-badge&logo=apacheHadoop&logoColor=white&labelColor=101010)]()
 
 ## Companies I worked for:
 [![Peugeot](https://img.shields.io/badge/peugeot-8F1742?style=for-the-badge&logo=peugeot&logoColor=white&labelColor=101010)]()
