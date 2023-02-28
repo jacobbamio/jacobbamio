@@ -44,7 +44,6 @@ Here you can find a little more about me and my data science projects!
 </br>
 [![powerbi](https://img.shields.io/badge/powerbi-CD5E19?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)]()
 [![streamlit](https://img.shields.io/badge/streamlit-CD5E19?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010)]()
-[![tableau](https://img.shields.io/badge/tableau-CD5E19?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
 </br>
 [![abbrobotstudio](https://img.shields.io/badge/abb_robots-B28E00?style=for-the-badge&logo=abbrobotstudio&logoColor=white&labelColor=101010)]()
 [![universalrobots](https://img.shields.io/badge/universal_robots-B28E00?style=for-the-badge&logo=universal_robots&logoColor=white&labelColor=101010)]()
