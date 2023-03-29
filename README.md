@@ -52,6 +52,9 @@ Here you can find a little more about me and my data science projects!
 [![Docker](https://img.shields.io/badge/Docker-428588?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Vmware](https://img.shields.io/badge/vmware-428588?style=for-the-badge&logo=vmware&logoColor=white&labelColor=101010)]()
 [![VirtualBox](https://img.shields.io/badge/virtualbox-428588?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=101010)]()
+</br>
+[![AzureMLS](https://img.shields.io/badge/Azure_Machine_Learning_Studio-4285F4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
+[![AzureCosmosDB](https://img.shields.io/badge/Azure_Cosmos_DB-4285F4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
 
 ## API's used:
 
@@ -62,16 +65,6 @@ Here you can find a little more about me and my data science projects!
 [![GoogleMaps](https://img.shields.io/badge/GoogleMaps-807D7D?style=for-the-badge&logo=GoogleMaps&logoColor=white&labelColor=101010)]()
 [![Youtube](https://img.shields.io/badge/Youtube-807D7D?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)]()
 [![Openai](https://img.shields.io/badge/Openai-807D7D?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)]()
-
-## Interested in learning:
-[![AWS](https://img.shields.io/badge/AWS-4285F4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-[![Azure](https://img.shields.io/badge/Azure-4285F4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/oracle-4285F4?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-</br>
-[![Solidity](https://img.shields.io/badge/solidity-4285F4?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-4285F4?style=for-the-badge&logo=Swift&logoColor=white&labelColor=101010)]()
-[![Pytorch](https://img.shields.io/badge/pytorch-4285F4?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010)]()
 
 ## Companies I worked for:
 [![Peugeot](https://img.shields.io/badge/peugeot-8F1742?style=for-the-badge&logo=peugeot&logoColor=white&labelColor=101010)]()
