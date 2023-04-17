@@ -71,7 +71,9 @@ Here you can find a little more about me and my data science projects!
 [![Citroen](https://img.shields.io/badge/Citroen-8F1742?style=for-the-badge&logo=Citroen&logoColor=white&labelColor=101010)]()
 [![Toyota](https://img.shields.io/badge/toyota-8F1742?style=for-the-badge&logo=toyota&logoColor=white&labelColor=101010)]()
 [![Opel](https://img.shields.io/badge/Opel-8F1742?style=for-the-badge&logo=Opel&logoColor=white&labelColor=101010)]()
+[![Fiat](https://img.shields.io/badge/Fiat-8F1742?style=for-the-badge&logo=Fiat&logoColor=white&labelColor=101010)]()
 [![Bosch](https://img.shields.io/badge/Bosch-8F1742?style=for-the-badge&logo=Bosch&logoColor=white&labelColor=101010)]()
+
 
 ## My projects:
 |Project|Web status|
