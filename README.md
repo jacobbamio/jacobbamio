@@ -123,30 +123,36 @@ Welcome to my GitHub profile! I'm passionate data scientist with expertise in va
 <table align="center">
   <tr>
     <td align="center" width="150px">
-      <img src="client1_logo.png" width="150" height="150" alt="Client1"/>
+      <img src="images/clients/logo_futbolemotion.png" width="150" height="150" alt="Client1"/>
     </td>
     <td align="center" width="150px">
-      <img src="client2_logo.png" width="150" height="150" alt="Client2"/>
+      <img src="images/clients/logo_fyg.png" width="150" height="150" alt="Client2"/>
     </td>
     <td align="center" width="150px">
-      <img src="client3_logo.png" width="150" height="150" alt="Client3"/>
+      <img src="images/clients/logo_gesvalt.png" width="150" height="150" alt="Client3"/>
     </td>
     <td align="center" width="150px">
-      <img src="client4_logo.png" width="150" height="150" alt="Client4"/>
+      <img src="images/clients/logo_lasirena.png" width="150" height="150" alt="Client4"/>
+    </td>
+    <td align="center" width="150px">
+      <img src="images/clients/logo_miniso.png" width="150" height="150" alt="Client4"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="150px">
-      <img src="client5_logo.png" width="150" height="150" alt="Client5"/>
+      <img src="images/clients/logo_nog.jpg" width="150" height="150" alt="Client5"/>
     </td>
     <td align="center" width="150px">
-      <img src="client6_logo.png" width="150" height="150" alt="Client6"/>
+      <img src="images/clients/logo_orpagu.jpg" width="150" height="150" alt="Client6"/>
     </td>
     <td align="center" width="150px">
-      <img src="client7_logo.png" width="150" height="150" alt="Client7"/>
+      <img src="images/clients/logo_phone_house.jpg.webp" width="150" height="150" alt="Client7"/>
     </td>
     <td align="center" width="150px">
-      <img src="client8_logo.png" width="150" height="150" alt="Client8"/>
+      <img src="images/clients/logo_repsol.jpg" width="150" height="150" alt="Client8"/>
+    </td>
+    <td align="center" width="150px">
+      <img src="images/clients/logo_stellantis.webp" width="150" height="150" alt="Client4"/>
     </td>
   </tr>
 </table>
