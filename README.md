@@ -78,41 +78,46 @@ Welcome to my GitHub profile! I'm passionate data scientist with expertise in va
 </div>
 
 ## Companies I'm Currently Working At
-
+Participation in the development of a Generative Artificial Intelligence platform to
+generate creative and customized content for Nike & Adidas products.
+Participation in the development of chatbots, using Langchain, ChromaDB, Postgres,
+vector databases, and RAG techniques.
+Development of an ML algorithm to determine pedestrian traffic in Spain.
 <table align="center">
   <tr>
     <td align="center" width="150px">
-      <img src="company1_logo.png" width="150" height="150" alt="Company1"/>
+      <img src="images/companies/pickgeo_logo.jpeg" width="150" height="150" alt="Company1"/>
     </td>
     <td>
       <ul>
-        <li>Developing data pipelines and ETL processes</li>
-        <li>Implementing machine learning models for predictive analytics</li>
-        <li>Collaborating with cross-functional teams to integrate AI solutions</li>
+        <li>Conducted data scraping using Selenium and BeautifulSoup</li>
+        <li>Developed a GenAI platform to create innovative and customized content for Nike & Adidas products</li>
+        <li>Engineered chatbots utilizing RAG and multiple LLMs with Langchain and various vector stores</li>
+        <li>Designed an algorithm to calculate pedestrian traffic for streets across Spain</li>
       </ul>
     </td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td align="center" width="150px">
-      <img src="company2_logo.png" width="150" height="150" alt="Company2"/>
+      <img src="images/companies/cassandra_ai_logo.jpeg" width="150" height="150" alt="Company2"/>
     </td>
     <td>
       <ul>
-        <li>Designing and deploying cloud infrastructure on AWS</li>
-        <li>Creating dashboards and visualizations for business intelligence</li>
-        <li>Conducting data analysis to drive strategic decisions</li>
+        <li>Developed document intelligence algorithms with LLMs for real estate purchase agreements</li>
+        <li>Built data pipelines and ETL processes</li>
+        <li>Engineered prompts for auto-classifying OCR extracted data</li>
       </ul>
     </td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
     <td align="center" width="150px">
-      <img src="company3_logo.png" width="150" height="150" alt="Company3"/>
+      <img src="images/companies/ctag_logo.jpeg" width="150" height="150" alt="Company3"/>
     </td>
     <td>
       <ul>
-        <li>Automating data collection and processing workflows</li>
-        <li>Training and fine-tuning deep learning models</li>
-        <li>Providing technical leadership and mentoring junior developers</li>
+        <li>Developed bin picking systems for Stellantis Vigo</li>
+        <li>Trained a DL model to auto-detect specific vehicle parts during assembly for Stellantis Zaragoza</li>
+        <li>Adapted the shark peeling process to an ergonomic procedure using cobots for Orpagu</li>
       </ul>
     </td>
   </tr>
