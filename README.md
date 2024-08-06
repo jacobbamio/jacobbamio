@@ -133,36 +133,36 @@ Development of an ML algorithm to determine pedestrian traffic in Spain.
 <table align="center">
   <tr>
     <td align="center" width="200px">
-      <img src="images/clients/logo_futbolemotion.png" width="200" height="150" alt="Client1"/>
+      <img src="images/clients/logo_futbolemotion.png" width="200" height="100" alt="Client1"/>
     </td>
     <td align="center" width="200px">
-      <img src="images/clients/logo_fyg.png" width="200" height="150" alt="Client2"/>
+      <img src="images/clients/logo_fyg.png" width="200" height="100" alt="Client2"/>
     </td>
     <td align="center" width="200px">
-      <img src="images/clients/logo_gesvalt.png" width="200" height="150" alt="Client3"/>
+      <img src="images/clients/logo_gesvalt.png" width="200" height="100" alt="Client3"/>
     </td>
     <td align="center" width="200px">
-      <img src="images/clients/logo_lasirena.png" width="200" height="150" alt="Client4"/>
+      <img src="images/clients/logo_lasirena.png" width="200" height="100" alt="Client4"/>
     </td>
     <td align="center" width="200px">
-      <img src="images/clients/logo_miniso.png" width="200" height="150" alt="Client4"/>
+      <img src="images/clients/logo_miniso.png" width="200" height="100" alt="Client4"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="200px">
-      <img src="images/clients/logo_nog.jpg" width="200" height="150" alt="Client5"/>
+      <img src="images/clients/logo_nog.jpg" width="200" height="100" alt="Client5"/>
     </td>
     <td align="center" width="200px">
-      <img src="images/clients/logo_orpagu.jpg" width="200" height="150" alt="Client6"/>
+      <img src="images/clients/logo_orpagu.jpg" width="200" height="100" alt="Client6"/>
     </td>
     <td align="center" width="200px">
-      <img src="images/clients/logo_phone_house.jpg.webp" width="200" height="150" alt="Client7"/>
+      <img src="images/clients/logo_phone_house.jpg.webp" width="200" height="100" alt="Client7"/>
     </td>
     <td align="center" width="200px">
-      <img src="images/clients/logo_repsol.jpg" width="200" height="150" alt="Client8"/>
+      <img src="images/clients/logo_repsol.jpg" width="200" height="100" alt="Client8"/>
     </td>
     <td align="center" width="200px">
-      <img src="images/clients/logo_stellantis.webp" width="200" height="150" alt="Client4"/>
+      <img src="images/clients/logo_stellantis.webp" width="200" height="100" alt="Client4"/>
     </td>
   </tr>
 </table>
