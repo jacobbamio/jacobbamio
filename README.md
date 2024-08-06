@@ -91,7 +91,7 @@ Development of an ML algorithm to determine pedestrian traffic in Spain.
 <table align="center">
   <tr>
     <td align="center" width="150px">
-      <img src="images/companies/pickgeo_logo.jpeg" width="150" height="150" alt="Company1"/>
+      <img src="images/companies/pickgeo_logo.jpg" width="150" height="150" alt="Company1"/>
     </td>
     <td>
       <ul>
