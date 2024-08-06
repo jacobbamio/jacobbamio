@@ -122,37 +122,37 @@ Welcome to my GitHub profile! I'm passionate data scientist with expertise in va
 
 <table align="center">
   <tr>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_futbolemotion.png" width="150" height="150" alt="Client1"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_futbolemotion.png" width="200" height="200" alt="Client1"/>
     </td>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_fyg.png" width="150" height="150" alt="Client2"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_fyg.png" width="200" height="200" alt="Client2"/>
     </td>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_gesvalt.png" width="150" height="150" alt="Client3"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_gesvalt.png" width="200" height="200" alt="Client3"/>
     </td>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_lasirena.png" width="150" height="150" alt="Client4"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_lasirena.png" width="200" height="200" alt="Client4"/>
     </td>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_miniso.png" width="150" height="150" alt="Client4"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_miniso.png" width="200" height="200" alt="Client4"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_nog.jpg" width="150" height="150" alt="Client5"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_nog.jpg" width="200" height="200" alt="Client5"/>
     </td>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_orpagu.jpg" width="150" height="150" alt="Client6"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_orpagu.jpg" width="200" height="200" alt="Client6"/>
     </td>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_phone_house.jpg.webp" width="150" height="150" alt="Client7"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_phone_house.jpg.webp" width="200" height="200" alt="Client7"/>
     </td>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_repsol.jpg" width="150" height="150" alt="Client8"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_repsol.jpg" width="200" height="200" alt="Client8"/>
     </td>
-    <td align="center" width="150px">
-      <img src="images/clients/logo_stellantis.webp" width="150" height="150" alt="Client4"/>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_stellantis.webp" width="200" height="200" alt="Client4"/>
     </td>
   </tr>
 </table>
