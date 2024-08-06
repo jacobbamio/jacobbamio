@@ -1,7 +1,12 @@
 <!-- Heading -->
-<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Jacob!</h3>
-
-Welcome to my GitHub profile! I'm passionate data scientist with expertise in various cutting-edge technologies. Here's a bit about what I do:
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Jacob! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jacobbamio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jacob_Bamio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:jacobbamio@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Protonmail-Job_inquiries-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010" alt="Protonmail Badge"/>
+  </a>
 
 ## Technologies I Use:
 
@@ -161,14 +166,3 @@ Development of an ML algorithm to determine pedestrian traffic in Spain.
     </td>
   </tr>
 </table>
-
-
-## You can find me in:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jacobbamio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jacob_Bamio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:jacobbamio@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Protonmail-Job_inquiries-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010" alt="Protonmail Badge"/>
-  </a>
