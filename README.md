@@ -165,4 +165,21 @@ Development of an ML algorithm to determine pedestrian traffic in Spain.
       <img src="images/clients/logo_stellantis.webp" width="200" height="125" alt="Client4"/>
     </td>
   </tr>
+    <tr>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_manolo_bakes.jpg" width="200" height="125" alt="Client5"/>
+    </td>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_aedas_homes.jpg" width="200" height="125" alt="Client6"/>
+    </td>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_toyota.jpg" width="200" height="125" alt="Client7"/>
+    </td>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_astun.png" width="200" height="125" alt="Client8"/>
+    </td>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_themagos.jpeg" width="200" height="125" alt="Client4"/>
+    </td>
+  </tr>
 </table>
