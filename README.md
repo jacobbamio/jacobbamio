@@ -164,7 +164,7 @@
       <img src="images/clients/logo_stellantis.webp" width="200" height="125" alt="Client4"/>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center" width="200px">
       <img src="images/clients/logo_manolo_bakes.jpg" width="200" height="125" alt="Client5"/>
     </td>
@@ -179,6 +179,23 @@
     </td>
     <td align="center" width="200px">
       <img src="images/clients/logo_themagos.jpeg" width="200" height="125" alt="Client4"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_guaw.png" width="200" height="125" alt="Client5"/>
+    </td>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_bluespace.png" width="200" height="125" alt="Client6"/>
+    </td>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_basketball_emotion.jpg" width="200" height="125" alt="Client7"/>
+    </td>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_to_be_announced.png" width="200" height="125" alt="Client8"/>
+    </td>
+    <td align="center" width="200px">
+      <img src="images/clients/logo_to_be_announced.png" width="200" height="125" alt="Client4"/>
     </td>
   </tr>
 </table>
