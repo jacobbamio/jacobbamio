@@ -83,11 +83,6 @@
 </div>
 
 ## Companies I'm Currently Working At
-Participation in the development of a Generative Artificial Intelligence platform to
-generate creative and customized content for Nike & Adidas products.
-Participation in the development of chatbots, using Langchain, ChromaDB, Postgres,
-vector databases, and RAG techniques.
-Development of an ML algorithm to determine pedestrian traffic in Spain.
 <table align="center">
   <tr>
     <td align="center" width="150px">
