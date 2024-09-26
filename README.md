@@ -109,6 +109,10 @@
       </ul>
     </td>
     </tr>
+  </table>
+
+## Companies I Worked For
+<table align="center">
     <tr>
     <td align="center" width="150px">
       <img src="images/companies/ctag_logo.jpeg" width="150" height="150" alt="Company3"/>
