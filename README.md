@@ -86,7 +86,17 @@
 <table align="center">
   <tr>
     <td align="center" width="150px">
-      <img src="images/companies/pickgeo_logo.jpg" width="150" height="150" alt="Company1"/>
+      <img src="images/companies/factorial_logo.jpeg" width="150" height="150" alt="Factorial"/>
+    </td>
+    <td>
+      <ul>
+        <li>Working in TBA AI features</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150px">
+      <img src="images/companies/pickgeo_logo.jpg" width="150" height="150" alt="Pickgeo"/>
     </td>
     <td>
       <ul>
@@ -96,10 +106,10 @@
         <li>Designed an algorithm to calculate pedestrian traffic for streets across Spain</li>
       </ul>
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td align="center" width="150px">
-      <img src="images/companies/cassandra_ai_logo.jpeg" width="150" height="150" alt="Company2"/>
+      <img src="images/companies/cassandra_ai_logo.jpeg" width="150" height="150" alt="Cassandra"/>
     </td>
     <td>
       <ul>
@@ -108,10 +118,10 @@
         <li>Engineered prompts for auto-classifying OCR extracted data</li>
       </ul>
     </td>
-    </tr>
+  </tr>
   </table>
 
-## Companies I Worked For
+## Companies I Worked For Previously
 <table align="center">
     <tr>
     <td align="center" width="150px">
