@@ -86,7 +86,7 @@
 <table align="center">
   <tr>
     <td align="center" width="150px">
-      <img src="images/companies/factorial_logo.jpeg" width="150" height="150" alt="Factorial"/>
+      <img src="images/companies/factorial_logo.png" width="150" height="150" alt="Factorial"/>
     </td>
     <td>
       <ul>
