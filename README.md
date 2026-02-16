@@ -4,7 +4,7 @@
 
 Working on **One**, Factorial's AI product. Exploring the limits of what agents can do.
 
-Previously shipped for Stellantis, Repsol, Toyota, Nike, Adidas, and others — from bin picking robots to LLMs.
+Previously shipped for Stellantis, Repsol, Toyota, and others — from bin picking robots to LLMs.
 
 ---
 
