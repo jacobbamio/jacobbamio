@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 6 * * 1"
   workflow_dispatch:
+    inputs:
+      full:
+        description: Fetch the whole history again, after repos change visibility
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -19,6 +24,7 @@ jobs:
         id: bonsai
         with:
           output-dir: assets
+          full: ${{ inputs.full || false }}
 
       - name: Commit if it changed
         run: |
