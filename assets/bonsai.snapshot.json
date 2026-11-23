@@ -9,9 +9,7 @@
   "observed_on": "2026-11-22",
   "collected_with": "gitbonsai 0.6.0",
   "language_colors": {
-    "Jupyter Notebook": "#da5b0b",
     "MDX": "#fcb32c",
-    "Python": "#3572a5",
     "Ruby": "#701516",
     "Shell": "#89e051",
     "TypeScript": "#3178c6"
@@ -32,7 +30,7 @@
       "date": "2023-01-03",
       "total": 14,
       "by_language": {},
-      "private": 14
+      "private": 13
     },
     {
       "date": "2023-01-04",
@@ -55,251 +53,224 @@
     {
       "date": "2023-01-09",
       "total": 4,
-      "by_language": {
-        "Jupyter Notebook": 4
-      }
+      "by_language": {},
+      "private": 4
     },
     {
       "date": "2023-01-11",
       "total": 7,
-      "by_language": {
-        "Jupyter Notebook": 7
-      }
+      "by_language": {},
+      "private": 6
     },
     {
       "date": "2023-01-12",
       "total": 1,
-      "by_language": {
-        "Jupyter Notebook": 1
-      }
+      "by_language": {},
+      "private": 1
     },
     {
       "date": "2023-01-13",
       "total": 8,
-      "by_language": {
-        "Jupyter Notebook": 8
-      }
+      "by_language": {},
+      "private": 7
     },
     {
       "date": "2023-01-14",
       "total": 1,
-      "by_language": {
-        "Jupyter Notebook": 1
-      }
+      "by_language": {},
+      "private": 1
     },
     {
       "date": "2023-01-16",
       "total": 1,
-      "by_language": {
-        "Jupyter Notebook": 1
-      }
+      "by_language": {},
+      "private": 1
     },
     {
       "date": "2023-01-17",
       "total": 1,
-      "by_language": {
-        "Jupyter Notebook": 1
-      }
+      "by_language": {},
+      "private": 1
     },
     {
       "date": "2023-01-18",
       "total": 2,
-      "by_language": {
-        "Jupyter Notebook": 2
-      }
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-01-19",
       "total": 1,
-      "by_language": {
-        "Jupyter Notebook": 1
-      }
+      "by_language": {},
+      "private": 1
     },
     {
       "date": "2023-01-20",
       "total": 10,
-      "by_language": {
-        "Jupyter Notebook": 10
-      }
+      "by_language": {},
+      "private": 9
     },
     {
       "date": "2023-01-21",
       "total": 10,
-      "by_language": {
-        "Jupyter Notebook": 10
-      }
+      "by_language": {},
+      "private": 9
     },
     {
       "date": "2023-01-22",
       "total": 13,
-      "by_language": {
-        "Jupyter Notebook": 13
-      }
+      "by_language": {},
+      "private": 12
     },
     {
       "date": "2023-01-23",
       "total": 1,
-      "by_language": {
-        "Jupyter Notebook": 1
-      }
+      "by_language": {},
+      "private": 1
     },
     {
       "date": "2023-01-24",
       "total": 16,
-      "by_language": {
-        "Jupyter Notebook": 16
-      }
+      "by_language": {},
+      "private": 14
     },
     {
       "date": "2023-01-25",
       "total": 8,
-      "by_language": {
-        "Jupyter Notebook": 8
-      }
+      "by_language": {},
+      "private": 7
     },
     {
       "date": "2023-01-26",
       "total": 2,
-      "by_language": {
-        "Jupyter Notebook": 2
-      }
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-01-27",
       "total": 2,
-      "by_language": {
-        "Jupyter Notebook": 2
-      }
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-02-02",
       "total": 3,
-      "by_language": {
-        "Jupyter Notebook": 3
-      }
+      "by_language": {},
+      "private": 3
     },
     {
       "date": "2023-02-03",
       "total": 2,
-      "by_language": {
-        "Jupyter Notebook": 2
-      }
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-02-06",
       "total": 2,
-      "by_language": {
-        "Python": 2
-      }
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-02-07",
       "total": 4,
-      "by_language": {
-        "Jupyter Notebook": 4
-      }
+      "by_language": {},
+      "private": 4
     },
     {
       "date": "2023-02-08",
       "total": 2,
-      "by_language": {
-        "Jupyter Notebook": 2
-      }
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-02-09",
       "total": 4,
-      "by_language": {
-        "Jupyter Notebook": 4
-      }
+      "by_language": {},
+      "private": 3
     },
     {
       "date": "2023-02-14",
       "total": 4,
-      "by_language": {}
+      "by_language": {},
+      "private": 3
     },
     {
       "date": "2023-02-15",
       "total": 3,
-      "by_language": {}
+      "by_language": {},
+      "private": 3
     },
     {
       "date": "2023-02-16",
       "total": 2,
-      "by_language": {}
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-02-23",
       "total": 2,
-      "by_language": {}
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-02-27",
       "total": 1,
-      "by_language": {}
+      "by_language": {},
+      "private": 1
     },
     {
       "date": "2023-02-28",
       "total": 4,
-      "by_language": {
-        "Jupyter Notebook": 2
-      }
+      "by_language": {},
+      "private": 3
     },
     {
       "date": "2023-03-21",
       "total": 2,
-      "by_language": {
-        "Jupyter Notebook": 2
-      }
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-03-23",
       "total": 7,
-      "by_language": {
-        "Jupyter Notebook": 7
-      }
+      "by_language": {},
+      "private": 6
     },
     {
       "date": "2023-03-25",
       "total": 7,
-      "by_language": {
-        "Jupyter Notebook": 7
-      }
+      "by_language": {},
+      "private": 6
     },
     {
       "date": "2023-03-27",
       "total": 3,
-      "by_language": {
-        "Jupyter Notebook": 3
-      }
+      "by_language": {},
+      "private": 3
     },
     {
       "date": "2023-03-28",
       "total": 11,
-      "by_language": {
-        "Jupyter Notebook": 11
-      }
+      "by_language": {},
+      "private": 10
     },
     {
       "date": "2023-03-29",
       "total": 11,
-      "by_language": {
-        "Jupyter Notebook": 9
-      }
+      "by_language": {},
+      "private": 10
     },
     {
       "date": "2023-03-30",
       "total": 7,
-      "by_language": {
-        "Jupyter Notebook": 7
-      }
+      "by_language": {},
+      "private": 6
     },
     {
       "date": "2023-03-31",
       "total": 2,
-      "by_language": {
-        "Jupyter Notebook": 1
-      }
+      "by_language": {},
+      "private": 2
     },
     {
       "date": "2023-04-13",
@@ -479,14 +450,13 @@
       "date": "2024-08-06",
       "total": 17,
       "by_language": {},
-      "private": 2
+      "private": 3
     },
     {
       "date": "2024-09-14",
       "total": 3,
-      "by_language": {
-        "Jupyter Notebook": 2
-      }
+      "by_language": {},
+      "private": 1
     },
     {
       "date": "2024-09-26",
